@@ -10,7 +10,7 @@ en =
   cancel: "Cancel"
   changePassword: "Change Password"
   choosePassword: "Choose a Password"
-  clickAgree: "By clicking Register, you agree to our"
+  clickAgree: "By signing up, you agree to our"
   configure: "Configure"
   createAccount: "Create an Account"
   currentPassword: "Current Password"
